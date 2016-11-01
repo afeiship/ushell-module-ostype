@@ -14,5 +14,4 @@ if [[ $(uname) == Darwin ]]; then
   export USM_OS_TYPE='macos';
 fi
 
-echo $USM_OS_TYPE;
 unset ROOT_PATH;
