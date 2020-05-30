@@ -3,9 +3,9 @@
 
 ## installation
 ```shell
-npm i -S afeiship/ushell-module-ostype
+npm i -S @feizheng/ushell-module-ostype
 ```
 
 ## usage
-+ export an `$USM_OS_TYPE`;
+- export an `$USM_OS_TYPE`;
 

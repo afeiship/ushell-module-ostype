@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-ostype",
+  "name": "@feizheng/ushell-module-ostype",
   "version": "1.0.0",
   "description": "Unix like shell module for ostype.",
   "main": "index.sh",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-ostype/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-ostype#readme"
+  "homepage": "https://github.com/afeiship/ushell-module-ostype#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
