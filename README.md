@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-ostype
+npm i -S @jswork/ushell-module-ostype
 ```
 
 ## usage
